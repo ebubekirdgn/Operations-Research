@@ -29,3 +29,31 @@ int main(int argc, char *argv[])
 
 	return 0;
 }
+
+
+/* Programın Çıktısı */
+
+/*
+
+x1 karisim miktari = 195
+x2 karisim miktari= 66
+Minimum Z = 175*195(x1) + 200*66(x2) = 47325
+Toplam : 250.590000
+
+x1 karisim miktari = 196
+x2 karisim miktari= 66
+Minimum Z = 175*196(x1) + 200*66(x2) = 47500
+Toplam : 251.540000
+
+x1 karisim miktari = 197
+x2 karisim miktari= 66
+Minimum Z = 175*197(x1) + 200*66(x2) = 47675
+Toplam : 252.490000
+
+x1 karisim miktari = 198
+x2 karisim miktari= 66
+Minimum Z = 175*198(x1) + 200*66(x2) = 47850
+Toplam : 253.440000
+
+
+*/
